@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project IPK-Plugins">
+    <target name="create_run_jar">
+    	<!-- This can be used to keep all old versions of your Add-on instead of overwriting -->
+    	<tstamp>
+         <format property="date" pattern="yy-MM-dd" locale="en" />
+    	</tstamp>
+ 		<move file="FluxMap.jar" tofile="old/FluxMap(${date}).jar">
+ 		</move>
+    	<!-- put sources and classes into the jar -->
+      <jar destfile="FluxMap.jar" filesetmanifest="mergewithoutmain">
+      	<fileset dir="build"/>
+	      <fileset dir="src">
+         	<include name="**/*.java"/>
+         </fileset>
+       </jar>
+    </target>
+</project>

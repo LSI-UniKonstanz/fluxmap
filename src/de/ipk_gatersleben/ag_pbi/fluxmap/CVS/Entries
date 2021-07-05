@@ -1,0 +1,16 @@
+/ConnectMetabolites.java/1.1/Mon Nov 14 12:03:33 2011//
+/FluxExperimentDataLoader.java/1.2/Fri Jan 27 09:03:10 2012//
+/FluxMapAddon.java/1.3/Thu Mar 21 12:27:44 2013//
+/FluxReactant.java/1.1/Mon Nov 14 12:03:33 2011//
+/FluxReaction.java/1.1/Mon Nov 14 12:03:33 2011//
+/FluxreactionAttribute.java/1.1/Mon Nov 14 12:03:33 2011//
+/FluxreactionAttributeComponent.java/1.1/Mon Nov 14 12:03:33 2011//
+/MyEvilCopiedDotLayoutAlgorithm.java/1.1/Mon Nov 14 12:03:33 2011//
+/ReactionNodeStyle.java/1.3/Thu Feb 16 18:00:27 2012//
+/StartVantedWithAddon.java/1.1/Mon Nov 14 12:03:33 2011//
+/VisualiseFluxDataAlgorithm.java/1.4/Thu Feb 16 18:00:27 2012//
+/example-fluxmap.gml/1.1/Thu Feb 16 18:00:27 2012/-kb/
+/example-fluxmap.xls/1.1/Thu Feb 16 18:00:27 2012/-kb/
+/example-fluxmap_mapped.gml/1.1/Thu Feb 16 18:00:27 2012/-kb/
+/flux_template.xls/1.3/Thu Mar 21 12:27:44 2013/-kb/
+/fluxmap.png/1.1/Mon Nov 14 12:03:33 2011/-kb/
