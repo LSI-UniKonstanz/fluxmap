@@ -22,7 +22,7 @@ import org.BackgroundTaskStatusProviderSupportingExternalCall;
 import org.ErrorMsg;
 import org.StringManipulationTools;
 import org.graffiti.editor.MainFrame;
-import org.jdom.Attribute;
+import org.jdom2.Attribute;
 
 import de.ipk_gatersleben.ag_nw.graffiti.plugins.gui.editing_tools.script_helper.ConditionInterface;
 import de.ipk_gatersleben.ag_nw.graffiti.plugins.gui.editing_tools.script_helper.Experiment;
